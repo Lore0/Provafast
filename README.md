@@ -1,8 +1,17 @@
 # Provafast
-Prova per provare git
+
+## Comandi Git
+
+``clone``
+
+``status``
+
+``add``
+
+``commit``
+
+``push``
 
 **Bold**
-
-``Hello World!``
 
 *Italic*
