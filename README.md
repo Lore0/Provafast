@@ -1,6 +1,6 @@
 # Provafast
 
-## Comandi Git
+Comandi Git
 
 ``clone``
 
